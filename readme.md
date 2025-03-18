@@ -83,7 +83,6 @@ Aquí algunas imágenes del funcionamiento de la aplicación:
 
 👤 **Juan Flores**
 
-📢 Si deseas contribuir, ¡haz un fork y envía tus mejoras! 😊
 
 💡 **Licencia:**
 - Este proyecto es de uso libre y puede ser modificado o distribuido según sea necesario. 🚀
